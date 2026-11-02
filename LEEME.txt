@@ -1,0 +1,9 @@
+MIS FINANZAS · NUEVA APP v4.0
+
+Incluye movimientos, categorías, tarjetas, pagos recurrentes, horarios de recordatorio dentro de la app y gráfica mensual.
+
+INSTALACIÓN: Descomprime el ZIP y sube los tres archivos index.html, manifest.webmanifest y sw.js juntos a un repositorio de GitHub Pages o alojamiento HTTPS.
+
+En iPhone, abre la dirección publicada en Safari > Compartir > Añadir a pantalla de inicio.
+
+IMPORTANTE: Las notificaciones no se envían cuando la app está cerrada. Los datos quedan en el navegador de cada origen; usa Exportar respaldo JSON antes de cambiar de dirección o teléfono e Importar respaldo JSON para recuperarlos.
